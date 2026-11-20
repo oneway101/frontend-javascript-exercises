@@ -8,6 +8,6 @@
     "chai": "~1.9.1",
     "rosie": "0.2.0",
     "karma-sinon": "1.0.0",
-    "underscore": "1.6.0"
+    "underscore": "1.13.8"
   }
 }
